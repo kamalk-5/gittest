@@ -1,6 +1,7 @@
 This is my first file
 
 Added new changes
+
 modified the file	
 
 updated the feature
@@ -8,3 +9,6 @@ updated the feature
 correct the file name
 
 Now file is RFT
+
+modified the file
+
